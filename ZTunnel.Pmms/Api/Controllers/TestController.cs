@@ -10,6 +10,7 @@ namespace api.Controllers
     {
         public IActionResult Index()
         {
+            int a=1;
             return View();
         }
     }
